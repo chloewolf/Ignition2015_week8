@@ -1,4 +1,5 @@
 - Bootstrap
   - buttons
   - mobile responsiveness
+  - collapsing accordion
 - agenda for next week, think about ideas over the weekend
