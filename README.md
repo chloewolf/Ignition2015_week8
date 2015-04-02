@@ -22,5 +22,6 @@
 
 ##### Optional
 - [5 Reasons to Use Bootstrap](http://www.zingdesign.com/5-reasons-to-use-twitter-bootstrap/)
+- [Blasting off with Bootstrap](https://www.codeschool.com/courses/blasting-off-with-bootstrap) from CodeSchool
 
 
