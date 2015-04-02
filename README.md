@@ -17,6 +17,7 @@
 1. Create a new rails app, and add bootstrap to it. 
   2. Use https://github.com/twbs/bootstrap-sass to install 
 2. Add a basic navbar with several menu items, and a hero unit on the homepage. 
+  1. [Spotify's website](https://www.spotify.com/us/) is an example of a navbar with menu itmes and a hero unit built with bootstrap.
 3. Deploy your app to Heroku.
 
 ##### Optional
