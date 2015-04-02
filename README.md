@@ -17,7 +17,7 @@
 1. Create a new rails app, and add bootstrap to it. 
   2. Use https://github.com/twbs/bootstrap-sass to install 
 2. Add a basic navbar with several menu items, and a hero unit on the homepage. 
-
+3. Deploy your app to Heroku.
 
 
 
