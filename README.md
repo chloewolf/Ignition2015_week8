@@ -2,11 +2,17 @@
 
 ##### Questions to answer:
 - What are CSS frameworks?
+  -CSS frameworks are prepared CSS files that have basic styling such as layouts, grids and fonts. Frameworks can be used for multiple  webpages.   
 - How do frameworks actually work?
+  -  
 - How do you interact with the framework to get the look you want?
+  - 
 - What is Twitter Bootstrap?
+  - 
 - What other frameworks can you find out there?
+  - 
 - What are the disadvantages of using frameworks?
+  - 
 
 ##### Resources
 - [How Twitter Bootstrap was built](http://alistapart.com/article/building-twitter-bootstrap)
